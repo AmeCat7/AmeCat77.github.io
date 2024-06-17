@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-I'm a first year undergraduate student from [Business school]([https://en.usst.edu.cn/), [University of Shanghai for Science and Technology](https://en.usst.edu.cn/). My study interest includes Data Science, Graph Theory, Neuroscience.
+I'm a first year undergraduate student from [University of Shanghai for Science and Technology](https://en.usst.edu.cn/). My study interest includes Data Science, Graph Theory, Neuroscience.
 
 [Email](candyamecat77@gmail.com) 
